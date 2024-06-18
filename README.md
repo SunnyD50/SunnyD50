@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunnyD50
+- 👋 Hi, I’m @SunnyD50.0
 - 👀 I’m interested in Healthcare analytics and AI application especially solving various healthcare payment inetgrity problems...
 - 🌱 I’m currently learning Pyton and AI/ML..
 - 💞️ I’m looking to collaborate on ...Real Time Use cases of AI/ML in healthcare payment integrity and Fraud Detection
